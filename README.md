@@ -47,9 +47,7 @@ PodAIGen is a modern podcast platform that leverages AI-driven features to enhan
 - **Listening to Podcasts**: Browse, search, and subscribe to podcasts. Customize your listening experience with the integrated player.
 - **AI Features**: Use AI tools to generate transcripts, summaries, and highlights for episodes.
 
-### Contributing
 
-Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:
